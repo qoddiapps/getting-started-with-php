@@ -1,6 +1,6 @@
 {
-    "name": "flashdriveio/getting-started-with-php",
-    "description": "Sample PHP application for FlashDrive",
+    "name": "qoddiapps/getting-started-with-php",
+    "description": "Sample PHP application for Qoddi",
     "type": "project",
     "require": {
         "alrik11es/cowsayphp": "^1.2"
@@ -8,7 +8,7 @@
     "authors": [
         {
             "name": "Eric Dukovsnky",
-            "email": "support@flashdrive.io"
+            "email": "support@qoddi.com"
         }
     ]
 }
