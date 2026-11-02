@@ -3,7 +3,8 @@
     "description": "Sample PHP application for Qoddi",
     "type": "project",
     "require": {
-        "alrik11es/cowsayphp": "^1.2"
+        "alrik11es/cowsayphp": "^1.2",
+        "php": "~8.5.0"
     },
     "authors": [
         {
